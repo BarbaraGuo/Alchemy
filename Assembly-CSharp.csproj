@@ -45,7 +45,6 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Bandits - Pixel Art\Demo\Sensor_Bandit.cs" />
      <Compile Include="Assets\Scripts\GroundCheck.cs" />
      <Compile Include="Assets\Scripts\MovingPlatform.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
